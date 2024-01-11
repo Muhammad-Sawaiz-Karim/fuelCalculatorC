@@ -53,6 +53,5 @@ int main (void) {
             printf("Please enter a valid mode.\n\n");
         }
     }
-    
     return 0;
 }
